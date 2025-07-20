@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #firebase
-src/firebase/config.js
+.env
